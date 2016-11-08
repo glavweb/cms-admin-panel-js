@@ -1,0 +1,23 @@
+{
+  "name": "glavweb-cms-admin-panel-js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/glavweb/cms-admin-panel-js",
+  "authors": [
+    "Andrey Nilov"
+  ],
+  "description": "The library creates admin panel for GLAVWEB.cms.",
+  "main": "jquery.admin-panel.js",
+  "keywords": [
+    "admin",
+    "panel",
+    "glavweb",
+    "cms"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.8.3"
+  }
+}
